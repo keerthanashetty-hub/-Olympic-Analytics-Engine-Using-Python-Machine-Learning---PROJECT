@@ -1,0 +1,2 @@
+# -Olympic-Analytics-Engine-Using-Python-Machine-Learning---PROJECT
+The Olympic Analytics Engine is a Python-based project designed to analyze and visualize Olympic Games data using advanced data analysis and machine learning techniques. This project allows users to explore athletes’ performances, medal trends, different sports and country-wise statistics across different Olympic events and years.
